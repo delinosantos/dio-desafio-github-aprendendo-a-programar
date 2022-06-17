@@ -1,0 +1,12 @@
+let A = 20
+let B = 10
+console.log(A + B) // imprime 30
+let A = 20
+let B = 10
+console.log(A - B) // imprime 10
+let A = 20
+let B = 10
+console.log(A*B) // imprime 200
+let numeroA = 20
+let numeroB = 10
+console.log(A/B) // imprime 2

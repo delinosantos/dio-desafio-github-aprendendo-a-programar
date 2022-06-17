@@ -1,0 +1,14 @@
+Dicas Incriveis para começar a aprender a programar
+
+1 - Comece pela lógica de programação.
+2 - Não pule etapas.
+3 - Faça exercícios.
+4 - Não escolha uma linguagem difícil.
+5 - Consiga livros sobre a linguagem. 
+6 - Aprenda Arduino.
+7 - Faça um curso.
+8 - Não desanime nunca.
+9 - Se baseia em conceitos básicos de lógica.
+10 - Não tenha medo de errar.
+11 - Pratique pelo menos 25 minutos todos os dias
+12 - Converse com outros programadores

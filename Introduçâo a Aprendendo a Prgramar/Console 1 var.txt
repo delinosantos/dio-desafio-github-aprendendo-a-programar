@@ -1,0 +1,74 @@
+1:
+var nome = 'Taylor'
+var sobrenome = 'Alvarenga'
+var profissao = 'Programadora'
+var cartaoDeVisita = 'Taylor Alvarenga - Programadora'
+console.log('cartaoDeVisita') // imprime "Taylor Alvarenga Programadora"
+2:
+Você criou variáveis, mas na criação do cartaoDeVisita esta usando as literais (string fixos).
+
+Para usar variável:
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+let nome = 'Natalia'
+let sobrenome = 'Lira'
+let profissao = 'Programadora'
+ 
+//Usando Strings de Template
+let cartaoDeVisita1 = `$ $ - $`
+ 
+//Usando adicionar
+let cartaoDeVisita2 = nome + " " + sobrenome + "-" + profissao
+ 
+console.log(`cartaoDeVisita1: $ `)
+console.log(`cartaoDeVisita2: $ `)
+
+3:
+Agora para usar string fixos:
+
+1
+2
+3
+4
+let cartaoDeVisita1 = `${'Natalia'} ${'Lira'} - ${'Programadora'}`
+let cartaoDeVisita2 = 'Natalia Lira - Programadora'
+console.log(`cartaoDeVisita1: $ `)
+console.log(`cartaoDeVisita2: $ `)
+
+4:
+Postando usando a tag code esta dando pau, o código correto é o abaixo.
+
+let nome = 'Natalia'
+let sobrenome = 'Lira'
+let profissao = 'Programadora'
+
+//Usando Strings de Template
+let cartaoDeVisita1 = `$ $ - $`
+
+//Usando adicionar
+let cartaoDeVisita2 = nome + " " + sobrenome + "-" + profissao
+
+console.log(`cartaoDeVisita1: $ `)
+console.log(`cartaoDeVisita2: $ `)
+5:
+var nome = "Natalia"
+var sobrenome = "Lira"
+var profissao = "Programadora"
+var cartaoDeVisita = nome + ' ' + sobrenome + '-' + profissao
+
+Já tentei de tudo que é jeito e não dá! Fica dando essa msg "O valor de cartão de visitas deve ser a junção do nome, sobrenome e profissão"
+
+var nome = "Natalia";
+var sobrenome = "Lira";
+var profissao = "Programadora";
